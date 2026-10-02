@@ -2,14 +2,14 @@
 This is the portfolio website of Kapil Dharme (MERN Stack Developer & 3rd-year CSE undergrad at GCOE Amravati)
 which include his skills , projects , experience in industry and his achievements.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React 18**
 - **Vite**
 - **Tailwind CSS**
 - **Google Material Symbols & Inter Font**
 
-## 💻 How to Run Locally
+## How to Run Locally
 
 1. **Install dependencies**:
    ```bash
