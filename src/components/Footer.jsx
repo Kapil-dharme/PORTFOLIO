@@ -29,7 +29,7 @@ export default function Footer() {
             GitHub
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/kapil-dharme-a52a1336a/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-primary transition-colors"

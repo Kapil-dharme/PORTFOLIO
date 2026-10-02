@@ -43,7 +43,7 @@ export default function Hero() {
           </a>
           <a
             className="flex-1 sm:flex-initial inline-flex justify-center items-center gap-2 border border-outline-variant hover:border-primary text-primary bg-transparent text-label-caps px-5 py-3 rounded-full hover:bg-surface-container-high transition-all duration-200 active:scale-95 text-sm"
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/kapil-dharme-a52a1336a/"
             target="_blank"
             rel="noopener noreferrer"
           >
