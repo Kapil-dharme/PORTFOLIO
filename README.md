@@ -2,6 +2,8 @@
 This is the portfolio website of Kapil Dharme (MERN Stack Developer & 3rd-year CSE undergrad at GCOE Amravati)
 which include his skills , projects , experience in industry and his achievements.
 
+**Live demo:** [Portfolio](https://portfolio-red-phi-48.vercel.app/)
+
 ## Tech Stack
 
 - **React 18**
