@@ -25,11 +25,13 @@ export default function Hero() {
       <div className="flex flex-col sm:flex-row sm:flex-wrap items-stretch sm:items-center gap-3 md:gap-4 w-full sm:w-auto">
         <a
           className="inline-flex justify-center items-center gap-2 bg-primary text-on-primary text-label-caps px-6 py-3 rounded-full hover:bg-secondary transition-all duration-200 active:scale-95 shadow-sm text-sm"
-          href="#resume"
+          href="/my-resume.pdf"
+          download="My_resume.pdf"
         >
           <span className="material-symbols-outlined text-[18px]">download</span>
           Download Resume
         </a>
+
 
         <div className="flex items-center gap-3 w-full sm:w-auto">
           <a

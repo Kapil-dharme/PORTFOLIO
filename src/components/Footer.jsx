@@ -37,11 +37,14 @@ export default function Footer() {
             LinkedIn
           </a>
           <a
-            href="#resume"
+            href="/My_resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             className="hover:text-primary transition-colors"
           >
             Resume
           </a>
+
         </div>
 
         <div className="flex justify-center md:justify-end">

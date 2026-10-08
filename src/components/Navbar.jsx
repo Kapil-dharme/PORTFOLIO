@@ -53,10 +53,13 @@ export default function Navbar({ onOpenContact }) {
 
         <a
           className="hidden md:inline-flex text-label-caps bg-primary text-on-primary px-5 py-2 rounded-full hover:bg-secondary transition-colors duration-200 scale-95 active:opacity-80"
-          href="#resume"
+          href="/My_resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           Resume
         </a>
+
 
         <button
           type="button"
